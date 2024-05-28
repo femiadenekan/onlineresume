@@ -1,0 +1,13 @@
+.section.professional-skills {
+  margin-top: 20px;
+}
+
+.skill {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.skill span {
+  font-weight: bold;
+  color: #3c3b6e;
+}

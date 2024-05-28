@@ -1,0 +1,15 @@
+.social-media {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.social-media a {
+  margin: 0 10px;
+  color: #3c3b6e;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.social-media a:hover {
+  color: #fff;
+}

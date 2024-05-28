@@ -1,0 +1,36 @@
+.section.work-experience {
+  margin-top: 20px;
+}
+
+.experience {
+  background: #fff;
+  border-left: 5px solid #3c3b6e;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.experience h3 {
+  margin: 0;
+  color: #3c3b6e;
+}
+
+.experience span {
+  font-weight: bold;
+  color: #666;
+}
+
+.experience ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.experience li {
+  margin: 5px 0;
+  color: #666;
+}
+
+.experience li strong {
+  font-weight: bold;
+}
